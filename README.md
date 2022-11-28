@@ -18,5 +18,6 @@ Below are the most immediate actions still uncompleted:
 - [ ] Remove other common words not included in nltk stopwords?
 - [ ] Remove punctuation (not apostrophes)
 - [ ] Apply cleaning to all lyrics (use df.apply?)
-
+###### Analysis
 - [ ] Apply count to all cleaned lyrics
+- [ ] Plot results
