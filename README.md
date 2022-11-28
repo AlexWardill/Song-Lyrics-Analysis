@@ -11,6 +11,7 @@ So unfortunately I don't have the time to finish it at this time.
 Below are the most immediate actions still uncompleted:
 
 #### TODO
+###### General
 - [ ] Tidy code structure
 - [ ] API details in environment variables
 ###### Cleaning
